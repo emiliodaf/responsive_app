@@ -1,12 +1,4 @@
-# responsive_app![front_01](https://user-images.githubusercontent.com/85713266/202076400-b1c00c75-0eca-48df-b4d0-a63d9d805700.jpg)
-![front_02](https://user-images.githubusercontent.com/85713266/202076415-0e200b53-a158-47f7-b39d-6f0027afbacb.jpg)
-![front_03](https://user-images.githubusercontent.com/85713266/202076450-5f79125d-9f16-47f2-9194-e46bd0d38ed6.jpg)
-![front_04](https://user-images.githubusercontent.com/85713266/202076464-bf3b3b78-c6a9-4ec0-a303-84c0a0f0d4ab.jpg)
-![front_05](https://user-images.githubusercontent.com/85713266/202076477-0c29eea5-18d3-48e6-aacd-daa368f890ac.jpg)
-![front_06](https://user-images.githubusercontent.com/85713266/202076490-a36cc8d7-36e6-4762-9b1e-8cf3f00e7927.jpg)
-![front_07](https://user-images.githubusercontent.com/85713266/202076507-0cdf0595-a555-4c3b-acd8-b8b9ba4c0bcb.jpg)
-![front_08](https://user-images.githubusercontent.com/85713266/202076517-9fb14a91-4ac9-4694-bc6c-76dabd3a6207.jpg)
-![front_09](https://user-images.githubusercontent.com/85713266/202076531-24344b28-1cb5-4422-b489-5204d6c6add0.jpg)
-![front_10](https://user-images.githubusercontent.com/85713266/202076541-6d2b9cee-fd9c-4069-9df8-ffa76e9beb97.jpg)
-![front_11](https://user-images.githubusercontent.com/85713266/202076547-26a153d5-7330-4b19-ad46-59b3353a9579.jpg)
-![front_12](https://user-images.githubusercontent.com/85713266/202076567-60f6ed2d-a709-4b33-8363-39f71c5a7eff.jpg)
+# 
+Today we have built a javascript project applied to a commercial company environment in order to promote an Accounting office's service using just html, css and javascript!
+
+![responsive-app-ezgif com-gif-maker](https://user-images.githubusercontent.com/85713266/228049062-4283837b-1d83-49f7-82a2-2f9d811e466d.gif)
